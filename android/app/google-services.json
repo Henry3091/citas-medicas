@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "491975832940",
+    "project_id": "citas-medicas-148a2",
+    "storage_bucket": "citas-medicas-148a2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491975832940:android:e6a24cca5fa61bfe422f49",
+        "android_client_info": {
+          "package_name": "com.company.citasmedicas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7LWsDJ_TXvfeSalz0ECCTjwzrKnLtjfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491975832940:android:58c6412dce3fb0a5422f49",
+        "android_client_info": {
+          "package_name": "com.example.citas_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7LWsDJ_TXvfeSalz0ECCTjwzrKnLtjfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
